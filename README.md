@@ -31,3 +31,4 @@ Open VS Code and open a terminal instance and run:
 ```
 dfx deploy
 ```
+# iThink-Code-camp
